@@ -11,3 +11,4 @@ UnityInputByTUIO
         2.创建空对象，添加MyEventSystem脚本或者UnityInput脚本即可!
     
     再次声明本程序使用996开源协议！
+    版权所有<Objone>,时间<2019-6-4>
